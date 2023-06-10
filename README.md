@@ -1,7 +1,7 @@
 
 # CodeSmashers
 
-This is a sample website, created using wordpress. Theme is 'CodeSmashers', a 'coding tutorial site'. It was developed on the local-server. No domain nor any database server has been rented. So, the website will run only on the administrator's local machine. 
+This is a website, created using wordpress. Theme is 'CodeSmashers', a 'coding tutorial site'. It was developed on the local-server. No domain nor any database server has been rented. So, the website will run only on the administrator's local machine. 
 
 ## Run Locally
 
